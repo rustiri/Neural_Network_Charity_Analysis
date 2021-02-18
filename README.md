@@ -38,7 +38,7 @@ I wasn’t able to achieve 75% target model performance. The accuracy of my mode
 ##### First attempt:
 Removed one more features which is AFFILIATION column, updated the number of neuron for both hidden layer to 90 and 60. With this attempt, the accuracy went down to 66%.
 
-![alt text](Resources/attemp1.png)
+![alt text](Resources/attempt1.png)
 
 ##### Second attempt:
 * Adding more neurons to a hidden layer and additional hidden layers.
@@ -47,13 +47,13 @@ Removed one more features which is AFFILIATION column, updated the number of neu
 * Third hidden layer = 44
 
 The accuracy for the second attempt remained the same as the first attempt.
-![alt text](Resources/attemp2.png)
+![alt text](Resources/attempt2.png)
 
 ##### Third attempt:
 Using different activation functions for output layers: tanh, with first hidden layer: 100 neurons and second hidden layer: 66 neurons.
 The accuracy also showed about 66%.
 
-![alt text](Resources/attemp3.png)
+![alt text](Resources/attempt3.png)
 
 ## Summary
 

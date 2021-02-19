@@ -57,5 +57,5 @@ The accuracy also showed about 66%.
 
 ## Summary
 
-Based on the optimization, the accuracy ended up with 66%. The initial neural network had 73% accuracy. For future consideration, maybe we can add more data to the dataset or remove additional features for optimization.
+Based on three attempted optimizations, the neural network accuracy ended up with 66%, which is lower than 73% accuracy of the initial neural network. Because of that, for further consideration, maybe we can add more data to the dataset or remove additional features for optimization.
 
